@@ -1,0 +1,31 @@
+﻿Sr No.,emp id,Name,Product ID,product,Date/DOB,Month,Rate,Qty,Total
+1,Apu-1001,Apurva Chavhan,10,CD,4/4/2022,Jan,78,15,93
+2,Man-1002,Mansi Bagde,20,DVD,5/4/2022,Feb,439,12,451
+3,kir-1003,kiran Wahane,30,RAM,6/4/2022,Mar,261,8,269
+4,kis-1004,kishor patil,40,Mouse ,7/4/2022,Apr,349,12,361
+5,abh-1005,abhishek nikose,50,Keyboard,8/4/2022,May,28,7,35
+6,aka-1006,akash bagde,60,Printer,9/4/2022,Jun,327,15,342
+7,ujw-1007,ujwala chavhan,10,CD,10/4/2022,Jul,105,15,120
+8,ruc-1008,ruchu ukey,20,DVD,11/4/2022,Aug,466,8,474
+9,rav-1009,ravi dubey,30,RAM,12/4/2022,Sep,333,8,341
+10,pay-10010,payal eagde,40,Mouse ,1/4/2023,Oct,363,8,371
+11,may-10011,mayuri sagare,50,Keyboard,2/4/2023,Nov,302,15,317
+12,sim-10012,simran deshe,60,Printer,3/4/2023,Dec,29,14,43
+13,mee-10013,meena patil,10,CD,4/4/2023,Jan,413,5,418
+14,lee-10014,leena singh,20,DVD,5/4/2023,Feb,82,15,97
+15,sur-10015,surbhi dhanvijay,30,RAM,6/4/2023,Mar,412,15,427
+16,dam-10016,damini kale,40,Mouse ,7/4/2023,Apr,139,9,148
+17,shr-10017,shra pande,50,Keyboard,8/4/2023,May,216,11,227
+18,muk-10018,mukesh tiwari,60,Printer,9/4/2023,Jun,97,13,110
+19,son-10019,sonu ghare,10,CD,10/4/2023,Jul,34,8,42
+20,wee-10020,weena dumbde,20,DVD,11/4/2023,Aug,71,8,79
+21,man-10021,manthan kamble,30,RAM,12/4/2023,Sep,421,6,427
+22,san-10022,sana sahare,40,Mouse ,1/4/2024,Oct,144,10,154
+23,kar-10023,karishma waghmare,50,Keyboard,2/4/2024,Nov,244,8,252
+24,pal-10024,palash taksande,60,Printer,3/4/2024,Dec,126,8,134
+25,mit-10025,mithila patil,10,CD,4/4/2024,Jan,224,9,233
+26,smr-10026,smruti ganvir,20,DVD,5/4/2024,Feb,71,15,86
+27,hit-10027,hitesh dongare,30,RAM,6/4/2024,Mar,471,7,478
+28,man-10028,mangu hirekhan,40,Mouse ,7/4/2024,Apr,375,9,384
+29,shw-10029,shweta damankar,50,Keyboard,8/4/2024,May,412,14,426
+30,pri-10030,priya choure,60,Printer,9/4/2024,Jun,450,5,455
